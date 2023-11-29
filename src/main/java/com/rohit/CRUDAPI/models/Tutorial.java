@@ -25,7 +25,6 @@ public class Tutorial {
     public Tutorial(String title) {
     }
 
-
     @Override
     public String toString() {
         return "Tutorial{" +
