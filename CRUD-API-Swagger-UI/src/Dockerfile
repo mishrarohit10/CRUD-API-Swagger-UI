@@ -1,5 +1,5 @@
 FROM maven:3.8.5-openjdk-17
-git a
+
 WORKDIR /CRUD-API-Swagger-UI
 COPY . .
 RUN mvn clean install
