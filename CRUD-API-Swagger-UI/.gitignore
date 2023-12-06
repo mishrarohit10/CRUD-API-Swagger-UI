@@ -18,7 +18,7 @@ target/
 *.iws
 *.iml
 *.ipr
-.m2
+C:\Users\mishr\Documents\Spring-Docker\CRUD-API-Swagger-UI\.m2
 
 ### NetBeans ###
 /nbproject/private/
