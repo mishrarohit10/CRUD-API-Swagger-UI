@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ac21197-c6fc-4a61-8120-5b8d5270ca3e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD-API-Swagger-UI/src/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CRUD-API-Swagger-UI/src/main/java/com/rohit/CRUDAPI/controllers/TutorialController.java" beforeDir="false" afterPath="$PROJECT_DIR$/CRUD-API-Swagger-UI/src/main/java/com/rohit/CRUDAPI/controllers/TutorialController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.m2/copy_reference_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/.m2/copy_reference_file.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRUD-API-Swagger-UI/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +84,7 @@
       <workItem from="1701720591615" duration="305000" />
       <workItem from="1701798208692" duration="1099000" />
       <workItem from="1701891062859" duration="196000" />
-      <workItem from="1701891466172" duration="624000" />
+      <workItem from="1701891466172" duration="1913000" />
     </task>
     <servers />
   </component>
